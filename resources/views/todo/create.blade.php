@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,6 +18,7 @@
 
   ?>
 <div class="container">
+
 
 @if(isset(Auth::user()->email))
 
